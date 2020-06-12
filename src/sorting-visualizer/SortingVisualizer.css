@@ -1,0 +1,24 @@
+.array-container {
+    text-align: center;
+  }
+  
+.array-bar {
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.ant-layout-header {
+    padding: 0 20px !important;
+}
+
+.app-title {
+    font-size: 20px;
+    color: #A8A8A8;
+    padding-left: 10px;
+}
+
+.ant-layout {
+    height: 93vh;
+}
